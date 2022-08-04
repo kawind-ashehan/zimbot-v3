@@ -23,14 +23,14 @@
 
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/zim-bot/zimbot-v3)
+[![Deploy](https://github.com/kawind-ashehan/zimbot-v3/edit/zim-bot-inc/README.md)
 
 ## BUILD PACKS
 
 ```
 https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 https://github.com/clhuang/heroku-buildpack-webp-binaries.git
-
+)
 https://github.com/DuckyTeam/heroku-buildpack-imagemagick
 ```
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@ReinhardTuna/Zimbot-v3-QR?v=1)
